@@ -29,7 +29,6 @@ public class StudentList1 {
         studentList1[0] = s1;
         studentList1[1] = s2;
         studentList1[2] = s3;
-        studentList1[3] = s4;
         
         for (Student s : studentList1) {
             System.out.println(s.getName());
